@@ -56,4 +56,4 @@ The compliance checklist includes industry best practices and regulations that t
 - **GDPR**: Make sure all EU customer data is protected, and implement procedures for breach notification within 72 hours.
 - **SOC Compliance**: Ensure that user access policies are established and that sensitive data is protected according to industry standards.
 
-A full checklist is available in the [Compliance Checklist](compliance_checklist/Compliance_Checklist.xlsx).
+A full checklist is available in the [Compliance Checklist](https://github.com/M9n9na/-My_Botium-Toys-Internal-Security-Audit/blob/main/Security%20Audit%20Report%20for%20Botium%20Toys.pdf)).
